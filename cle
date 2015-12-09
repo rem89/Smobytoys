@@ -1,0 +1,34 @@
+JNFVK-TQPCP-K47RG-HD77B-HT9RM
+
+ L’installation du projet doit permettre :
+
+1) le convoyage des pièces produites
+
+de récupérer les pièces moulées par les 16 presses à injecter (voir cadences fichier joint), 
+d’injecter ces pièces sur le tapis collecteur pour un convoyage vers la zone opérateur,
+d’orienter ces pièces vers un ou l’autre des 2 tapis transfert selon l’attribution des emplacements,
+d’orienter ensuite chaque pièces ou lot de pièces vers un emplacement,
+- d’orienter le cas échéant les pièces en bout du tapis collecteur ou en bout des 2 tapis transfert.
+
+Le process devra être polyvalent et être capable de prendre en charge toutes les production  actuelles décrites ainsi que tout  autre forme de pièces non définies à ce jour.
+ 
+2) l’aménagement du poste opérateur
+
+                   -  l’installation d’un écran tactile par emplacement ou l’opérateur pourra retrouver :
+                      la fiche de spécification, la fiche de conditionnement, le module Fastec de suivi de production  
+                      comptabilisant les rebuts, la possibilité d’imprimer des étiquettes pour identifier les
+                      contenants ( l’imprimante sera fournie par Smobytoys).
+                   - plan du poste à joindre
+
+3) le pilotage de l’ilot
+
+Le chef d’équipe devra au lancement de l’Ordre de Fabrication, identifier l’emplacement ou sera poussée la pièce ou le lot de pièces. Les spécifications propres à la pièces nécessaires à la production (fiche de spécification, fiche de conditionnement, module Fastec, module d’étiquetage) s’afficheront  sur l’écran dédié cet emplacement. En cours de production, si toutefois l’emplacement change, notamment pour une raison d’équilibrage des postes, les spécifications devront s’afficher automatiquement sur l’écran dédié au nouvel emplacement. 
+
+
+
+
+
+
+
+
+On peut arrêter la recherche à tout moment. - Contrairement au recuit simulé...Des critères d’arrêt possibles sont :Si une solution prouvée optimale a été trouvée.Si une limite a été atteinte en ce qui concerneLe nombre d’itérations ;Le temps de calcul.Si la recherche semble stagner : nombre d’itérations sans amélioration de la meilleure configuration trouvée.
